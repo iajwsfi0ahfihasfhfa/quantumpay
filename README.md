@@ -15,7 +15,7 @@ The project is structured for easy deployment in both containerized and cloud en
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourorg/quantumpay-api.git
+    git clone https://github.com/iajwsfi0ahfihasfhfa/quantumpay.git
     cd quantumpay-api
     ```
 
